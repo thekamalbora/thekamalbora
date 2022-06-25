@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kamal Singh Bora</h1>
 <h3 align="center">My area of expertise is ASP.Net MVC Web development but I constantly explore new technologies. I have developed a number of projects on different platforms out of which some link are posted below in my projects section and i also work for Graphic Design.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **GAC ECOMMERCE PRIVATE LIMITED** (https://admin.gacecommerce.in/)
+- 🔭 I’m currently working on [GAC ECOMMERCE PRIVATE LIMITED](https://admin.gacecommerce.in/)
 
 - 🌱 I’m currently learning **ASP.Net Core**
 

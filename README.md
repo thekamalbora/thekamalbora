@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamal Singh Bora</h1>
 <h3 align="center">My area of expertise is ASP.Net MVC Web development but I constantly explore new technologies. I have developed a number of projects on different platforms out of which some link are posted below in my projects section and i also work for Graphic Design . I enjoy developing engaging solutions that bring positive values to the lives of people.</h3>
-
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekamalbora&label=Profile%20views&color=0e75b6&style=flat" alt="thekamalbora" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thekamalbora" alt="thekamalbora" /></a> </p>

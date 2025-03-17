@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **thekamalbora@yahoo.com**
 
-- 📄 Know about my experiences <a href="https://thekamalbora.github.io/img/KamalSinghBora_Resume.pdf" target="_blank">Click Here !</a>
+- 📄 Know about my experiences <a href="https://thekamalbora.github.io/img/KamalSinghBora_5_Years_Dot_Net.pdf" target="_blank">Click Here !</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

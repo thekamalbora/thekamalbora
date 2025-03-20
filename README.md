@@ -1,6 +1,10 @@
 ![MasterHead](https://media-exp2.licdn.com/dms/image/C4D16AQFK-VW9oiP5OA/profile-displaybackgroundimage-shrink_200_800/0/1656185322188?e=1661385600&v=beta&t=5GajTeV6d9QkvaNgLplceWEWkuNAqgtOqb7BXQGg1Gc)
 <h1 align="center">Hi 👋, I'm Kamal Singh Bora</h1>
-<h3 align="center">My area of expertise is ASP.Net MVC Web development but I constantly explore new technologies. I have developed a number of projects on different platforms out of which some link are posted below in my projects section and i also work for Graphic Design.</h3>
+<h3 align="center">Experienced Software Engineer (5+ years) specializing in .NET MVC, .NET Core API, MS SQL Server, and
+React. Expertise in Logistics, E-commerce, and CMS development, leading cross-functional teams and
+integrating third-party APIs & payment gateways (Stripe, CC Avenue, HDFC). Skilled in scalable
+architecture, database optimization, and Agile application development. 
+</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [GAC ECOMMERCE PRIVATE LIMITED](https://admin.gacecommerce.in/)
 

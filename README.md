@@ -19,7 +19,7 @@ I specialize in designing **high-performance backend systems**, integrating **th
 * 💬 Ask me about
   **ASP.NET Core • MVC • Web API • SQL Server • Microservices • RabbitMQ • React**
 * 📫 Reach me → **[work.kamalbora@gmail.com](mailto:work.kamalbora@gmail.com)**
-* 📄 Resume → **https://thekamalbora.github.io/img/KamalSinghBora_5_Years_Dot_Net.pdf**
+* 📄 Resume → **https://thekamalbora.github.io/img/KamalSinghBora_6_Years_Dot_Net.pdf**
 
 ---
 
